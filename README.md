@@ -1,6 +1,6 @@
 # Gatsby Source Github Feed
 
-[![npm version](https://badge.fury.io/js/gatsby-source-github-feed.svg)](https://badge.fury.io/js/gatsby-source-github-feedeed)
+[![npm version](https://badge.fury.io/js/gatsby-source-github-feed.svg)](https://badge.fury.io/js/gatsby-source-github-feed)
 
 Source plugin for pulling data into Gatsby from RSS feed.
 
