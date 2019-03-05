@@ -23,7 +23,7 @@ yarn add gatsby-source-github-feed
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-source-github-feeded`,
+      resolve: `gatsby-source-github-feed`,
       options: {
         profile: `gregorskii`,
         name: `GithubProfile`,
